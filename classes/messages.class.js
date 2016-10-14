@@ -7,7 +7,7 @@ class Messages{
 	}
 
 	sayHello () {
-		return 'Hello ' + this.name;
+		return 'Hello, ' + this.name;
 	}
 
 	sayGoodbye() {
